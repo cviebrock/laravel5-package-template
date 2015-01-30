@@ -1,4 +1,4 @@
-# Boilerplate template for Laravel 5 packages
+# Boilerplate Laravel 5 Package
 
 ## Installation
 
