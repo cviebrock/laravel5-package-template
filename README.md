@@ -1,2 +1,3 @@
-# laravel5-package-template
+# vendor/package
+
 Boilerplate template for Laravel 5 packages
