@@ -1,0 +1,14 @@
+{
+    "name": "cviebrock/laravel5-package-template",
+    "description": "Boilerplate template for Laravel 5 packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Colin Viebrock",
+            "email": "colin@viebrock.ca"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
