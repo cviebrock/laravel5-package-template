@@ -57,7 +57,7 @@ class ServiceProvider extends LaravelServiceProvider {
 
     private function handleTranslations() {
 
-        $this->loadTranslationsFrom('packagename', __DIR__.'/../lang');
+        $this->loadTranslationsFrom(__DIR__.'/../lang', 'packagename');
     }
 
     private function handleViews() {
